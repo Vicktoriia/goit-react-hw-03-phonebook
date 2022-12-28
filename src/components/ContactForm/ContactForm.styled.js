@@ -13,6 +13,7 @@ export const Label = styled.label`
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+  justify-content: space-between;
   gap: 12px;
   font-size: 15px;
   font-weight: 600;
